@@ -1,0 +1,10 @@
+[package]
+name = "lorikeet"
+version = "0.1.0"
+authors = ["mclarenint <nbtravlin@gmail.com>"]
+
+[dependencies]
+
+[dependencies.glfw]
+git = "https://github.com/bjz/glfw-rs.git"
+#default-features = false
